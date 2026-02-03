@@ -19,6 +19,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=priyanshu-raj-0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
@@ -53,18 +57,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-raj-0&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-raj-0&theme=dracula&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-raj-0&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-raj-0&theme=radical&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 <br>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu-raj-0&theme=dracula&hide_border=true" alt="streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu-raj-0&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu-raj-0&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu-raj-0&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
@@ -73,10 +78,6 @@
   
   ### ✍️ Random Dev Quote
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-  
-  <br>
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=priyanshu-raj-0&icon=0&color=0)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
